@@ -1,0 +1,17 @@
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\ProjetoLerExcel.exe.config
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\ProjetoLerExcel.exe
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\ProjetoLerExcel.pdb
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\EPPlus.dll
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\EPPlus.Interfaces.dll
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\EPPlus.System.Drawing.dll
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\System.ComponentModel.Annotations.dll
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\EPPlus.xml
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\bin\x86\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\obj\x86\Release\ProjetoLerExcel.Form1.resources
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\obj\x86\Release\ProjetoLerExcel.Properties.Resources.resources
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\obj\x86\Release\ProjetoLerExcel.csproj.GenerateResource.cache
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\obj\x86\Release\ProjetoLerExcel.csproj.CoreCompileInputs.cache
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\obj\x86\Release\ProjetoLerExcel.csproj.CopyComplete
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\obj\x86\Release\ProjetoLerExcel.exe
+C:\Users\silas\source\repos\ProjetoLerExcel\ProjetoLerExcel\obj\x86\Release\ProjetoLerExcel.pdb
