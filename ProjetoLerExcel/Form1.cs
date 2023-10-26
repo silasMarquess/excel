@@ -33,9 +33,10 @@ namespace ProjetoLerExcel
                 if (txtNomeDaPlanilhaAnalise.Text == string.Empty) throw new DomainException("Erro: informe o nome correto  da planilha de análise,Obdecendo maicuscula e minusculas");
 
 
-                List<ProdutoPeca> lista = ReadArquivo.ReadXla(_urlEntrada, txtNomeDaPlanilhaAnalise.Text.Trim());
+                List<ProdutoPeca> lista = ReadArquivo.getListaProdutoEPP(_urlEntrada, txtNomeDaPlanilhaAnalise.Text.Trim());
 
-                ReadArquivo.GerarXLSx(lista, _urlSaida);
+                int i = 0;
+                ReadArquivo.GerarPlanilha(_urlEntrada, lista);
                 MessageBox.Show("Operação Realizada com sucesso");
 
                 _urlEntrada = string.Empty;
@@ -57,6 +58,10 @@ namespace ProjetoLerExcel
             catch (System.Data.OleDb.OleDbException ex)
             {
                 MessageBox.Show("Erro: O nome da planilha de análise está incorreto");
+
+            }catch(System.InvalidOperationException ex)
+            {
+                MessageBox.Show("Erro: A planilha que vc selecionou deve ser feixada no excel primeiro para o progama possa modificá-la");
             }
         }
 

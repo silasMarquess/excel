@@ -20,13 +20,19 @@ namespace ProjetoLerExcel.Entidade
 
         public void ProcessaCheckLis()
         {
+            if (CheckList == null)
+            {
+                CheckList = "Sem CheckList\n";
+            }
+
             listaCheck.Clear();
             string[] textoCortado = CheckList.Split('\n');
 
-            foreach(string linha in textoCortado)
+            foreach (string linha in textoCortado)
             {
                 listaCheck.Add(linha);
             }
+
         }
     }
 }
